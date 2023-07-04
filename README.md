@@ -5,7 +5,7 @@ kiosk system for restaurants (react , node.js , mongodb)
 ברוכים הבאים לקובץ הREADME.md של המערכת השולחנית להזמנות במסעדה!
 
 # מערכת הזמנות שולחנית למסעדה (Kiosk System) - README
-[![Video Name](https://cv.amrzhwh.com/wp-content/uploads/2023/07/kioskvid.mp4)](https://cv.amrzhwh.com/wp-content/uploads/2023/07/kioskvid.mp4)
+[![Kiosk System](https://cv.amrzhwh.com/wp-content/uploads/2023/07/kioskvid.mp4)](https://cv.amrzhwh.com/wp-content/uploads/2023/07/kioskvid.mp4)
 
 ## תיאור המערכת / הרכב המערכת
 
