@@ -32,7 +32,7 @@ kiosk system for restaurants (react , node.js , mongodb)
 
 1. התקן את התלויות לצד לקוח וגם לצד מנהל באמצעות הפקודה `npm install`.
 
-2. הרץ את השרת באמצעות הפקודה `npm start` : `http://localhost:3000` 
+2. הרץ את השרת באמצעות הפקודה `npm start` : `http://localhost:3001` 
 
 3. נווט לכתובת `http://localhost:3000` בדפדפן כדי להציג את ממשק המשתמש של המערכת.
 
