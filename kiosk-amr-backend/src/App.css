@@ -1,0 +1,129 @@
+html,body{
+  width: 100%;
+  margin: 0px;
+  direction: rtl;
+  background: antiquewhite;
+}
+
+
+.wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+img{
+  width: 100px;
+}
+.button {
+  width: 140px;
+  letter-spacing: 1.5px;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  }
+
+.button:hover {
+  background-color: #2EE59D;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.buttonn {
+  width: 140px;
+  letter-spacing: 1.5px;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  }
+  .buttonn:hover {
+    background-color: #333333;
+    box-shadow: 0px 15px 20px #fff;
+    color: #fff;
+    transform: translateY(-7px);
+  }
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+li {
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.1);
+  list-style: none;
+  margin: 50px;
+  display: flex;
+  border-radius: 5px;
+  text-align: center;
+  padding: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+}
+li:nth-child(4n+1) {
+  background-color: #e27d60;
+}
+
+li:nth-child(4n+2) {
+  background-color: #e8a87c;
+}
+
+li:nth-child(4n+3) {
+  background-color: #85dcb2;
+}
+
+li:nth-child(4n+4) {
+  background-color: #c38d9e;
+}
+
+p{
+  margin: 10px;
+  padding: 5px;
+}
+.filters{
+  min-width: 100%;
+  min-height: 100vh;
+  text-align: center;
+  place-content: center;
+  align-items: center;
+}
+
+.filters button{
+  margin: 5px;
+  padding: 10px;
+}
+.imgdivs{
+  display: grid;
+    justify-items: center;
+}
+h1 {
+  justify-content: center;
+}
